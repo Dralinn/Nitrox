@@ -1,0 +1,38 @@
+{
+  // Main menu
+  "Nitrox_Multiplayer": "Multiplayer",
+  "Nitrox_AddServer": "server toevoegen",
+  "Nitrox_ConnectTo": "verbind met",
+  "Nitrox_AddServerName": "Naam:",
+  "Nitrox_AddServerHost": "Gastheer:",
+  "Nitrox_AddServerPort": "Poort:",
+  "Nitrox_AddServerAdd": "Voeg toe",
+  "Nitrox_JoinServerPasswordHeader": "Server wachtwoord nodig",
+  "Nitrox_JoinServerIpAddress": "Server IP",
+  "Nitrox_JoinServerPassword": "Wachtwoord:",
+  "Nitrox_JoinServerFailed": "Kan niet met de server verbinden",
+  "Nitrox_Cancel": "Annuleren",
+  "Nitrox_Join": "Meedoen",
+  "Nitrox_PlayerColor": "Speler kleur",
+  "Nitrox_EnterName": "Speler naam",
+  "Nitrox_SubmitPassword": "Indienen",
+  "Nitrox_MultiplayerLoaded": "Multiplayer client geladen...",
+  // In game menu
+  "Nitrox_LoadingScreenWarn": "Verwacht spel-brekende fouten",
+  "Nitrox_WorldSettling": "Wereld word gevestigd",
+  "Nitrox_JoiningSession": "Verbinden met multiplayer sessie",
+  "Nitrox_SyncingWorld": "Multiplayer wereld gelijkstellen",
+  "Nitrox_LostConnection": "Verbinding verloren met de game server",
+  "Nitrox_PlayerKicked": "Je bent uit de server getrapt",
+  // In game logging
+  "Nitrox_UnableToConnect": "Kan niet verbinden met de server op:",
+  "Nitrox_StartServer": "Zet eerste je server aan om je eigen gehoste server te kunnen toetreden",
+  "Nitrox_FirewallInterfering": "Seems like your firewall settings are interfering",
+  "Nitrox_InvalidUserName": "Voer alsjeblieft een geldige naam in !\n\n Het mag geen spaties of symbolen bevatten\n Toegestane tekens : A-Z a-z 0-9 _ . -\nLengte : [3, 25]",
+  "Nitrox_RequestingSessionPolicy": "Informatie over sessiebeleid opvragen...",
+  "Nitrox_RejectedSessionPolicy": "Reservering afgewezen...",
+  "Nitrox_DisconnectedSession": "Verbinding met server is verbroken",
+  "Nitrox_WaitingPassword": "Wachten op invoer van server-wachtwoord...",
+  "Nitrox_WaitingUserInput": "Wachten op gebruikers-invoer...",
+  "Nitrox_LaunchGame": "Spel starten..."
+}
