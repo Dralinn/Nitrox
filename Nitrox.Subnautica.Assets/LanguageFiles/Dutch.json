@@ -1,6 +1,6 @@
 {
   // Main menu
-  "Nitrox_Multiplayer": "Multiplayer",
+  "Nitrox_Multiplayer": "Samen spelen",
   "Nitrox_AddServer": "server toevoegen",
   "Nitrox_ConnectTo": "verbind met",
   "Nitrox_AddServerName": "Naam:",
@@ -19,9 +19,9 @@
   "Nitrox_MultiplayerLoaded": "Multiplayer client geladen...",
   // In game menu
   "Nitrox_LoadingScreenWarn": "Verwacht spel-brekende fouten",
-  "Nitrox_WorldSettling": "Wereld word gevestigd",
+  "Nitrox_WorldSettling": "Wereld wordt gevestigd",
   "Nitrox_JoiningSession": "Verbinden met multiplayer sessie",
-  "Nitrox_SyncingWorld": "Multiplayer wereld gelijkstellen",
+  "Nitrox_SyncingWorld": "Multiplayer wereld synchroniseren",
   "Nitrox_LostConnection": "Verbinding verloren met de game server",
   "Nitrox_PlayerKicked": "Je bent uit de server getrapt",
   // In game logging
@@ -31,8 +31,8 @@
   "Nitrox_InvalidUserName": "Voer alsjeblieft een geldige naam in !\n\n Het mag geen spaties of symbolen bevatten\n Toegestane tekens : A-Z a-z 0-9 _ . -\nLengte : [3, 25]",
   "Nitrox_RequestingSessionPolicy": "Informatie over sessiebeleid opvragen...",
   "Nitrox_RejectedSessionPolicy": "Reservering afgewezen...",
-  "Nitrox_DisconnectedSession": "Verbinding met server is verbroken",
-  "Nitrox_WaitingPassword": "Wachten op invoer van server-wachtwoord...",
-  "Nitrox_WaitingUserInput": "Wachten op gebruikers-invoer...",
+  "Nitrox_DisconnectedSession": "Verbinding met de server is verbroken",
+  "Nitrox_WaitingPassword": "Wachten op invoer van serverwachtwoord...",
+  "Nitrox_WaitingUserInput": "Wachten op gebruikersinvoer...",
   "Nitrox_LaunchGame": "Spel starten..."
 }
